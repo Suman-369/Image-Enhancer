@@ -79,7 +79,7 @@ const App = () => {
                     <div className="text-center mt-12">
                         <div className="glass-dark rounded-2xl px-6 py-4 inline-block">
                             <p className="text-white/60 text-sm font-medium">
-                                Powered By <span className="gradient-text font-bold">Team Tojo Katana 369</span>
+                                Powered By <span className="gradient-text font-bold">Team  369</span>
                             </p>
                         </div>
                     </div>

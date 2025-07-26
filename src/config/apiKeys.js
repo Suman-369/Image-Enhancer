@@ -1,7 +1,7 @@
 
 export const API_KEYS = {
     // Dream Studio (Stability AI) API Key
-    DREAM_STUDIO: "sk-5fuYhJjjmTCwnwyGrELI9KZkaxNv9rLYaA8r3STdi4RK56Jd", 
+    DREAM_STUDIO: "sk-xvsrcmBPSZ4t7OjNGv0b3beenmHuFO17KgkbfRLT3P70JXGJ", 
     
     // Image Enhancement API Key (existing)
     IMAGE_ENHANCEMENT: "wxefqkg9q4mjswyn7"
